@@ -5,6 +5,12 @@ const Map<String, dynamic> codes = {
     "dial_code": "+93",
     "country_code": "fa_AF"
   },
+  "AX": {
+    "name": "Åland Islands",
+    "alpha2Code": "AX",
+    "dial_code": "+358",
+    "country_code": "sv_AX"
+  },
   "AL": {
     "name": "Albania",
     "alpha2Code": "AL",
@@ -840,8 +846,6 @@ const Map<String, dynamic> codes = {
     "country_code": "ar_MR"
   },
   "MU": {
-
-
     "name": "Mauritius",
     "alpha2Code": "MU",
     "dial_code": "+230",
@@ -1264,9 +1268,7 @@ const Map<String, dynamic> codes = {
   "SR": {
     "name": "Suriname",
     "alpha2Code": "SR",
-   
-
- "dial_code": "+597",
+    "dial_code": "+597",
     "country_code": "nl_SR"
   },
   "SJ": {
@@ -1274,6 +1276,12 @@ const Map<String, dynamic> codes = {
     "alpha2Code": "SJ",
     "dial_code": "+4779",
     "country_code": "no_SJ"
+  },
+  "SZ": {
+    "name": "Swaziland",
+    "alpha2Code": "SZ",
+    "dial_code": "+268",
+    "country_code": "en_SZ"
   },
   "SE": {
     "name": "Sweden",
@@ -1472,8 +1480,6 @@ const Map<String, dynamic> codes = {
     "alpha2Code": "YE",
     "dial_code": "+967",
     "country_code": "ar_YE"
-
-
   },
   "ZM": {
     "name": "Zambia",
